@@ -23,7 +23,7 @@
     
     <section>
         <h2>Experiência Profissional</h2>
-        <p>Já trablhei na Nasa, Ajudei na programação do James Webb, Pulei num vulcão amarrado num tubarão com 100kg de dinamite amarradas no peito e sopevivi, Já trbalhei também como estagiario em um disco voador, já trabalhei na padaria da esquina e já fui ajudante do Chapolim Colorado</p>
+        <p>Já trablhei na Nasa, Ajudei na programação do James Webb, Pulei num vulcão amarrado num tubarão com 100kg de dinamite amarradas no peito e sobrevivi, Já trbalhei também como estagiario em um disco voador, já trabalhei na padaria da esquina, sou imortal(eu acho nunca morri pra ter certeza) e já fui ajudante do Chapolim Colorado</p>
     </section>
     
     <section>
